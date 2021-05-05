@@ -1,3 +1,30 @@
 title: HomeKit Builds & Reviews
 description: A blog all about building a smart, sensible home using Apple's HomeKit.
-theme: jekyll-theme-cayman
+show_downloads: true
+
+# baseurl: "/cayman-blog" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
+url: "https://homekitbuilds.mrrooni.com" # change this to the base hostname & protocol for your site
+
+
+# google_analytics:
+
+# cayman-blog date format
+# refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
+cayman-blog:
+  date_format: "%b %-d, %Y"
+
+theme: # leave it empty
+
+# social
+author: Michael Fey
+image: /thumbnail-jumbo.png
+twitter:
+  username: mrrooni
+
+plugins:
+  - jekyll-target-blank
+
+target-blank:
+    rel: nofollow
+
+header_page_refs: ['now', 'about', 'contact']
