@@ -1,9 +1,6 @@
 ---
 layout: post
-title: "HomeKits Builds & Reviews: A Series"
-tagline: "This post demonstrates post content styles"
-# image: /thumbnail-mobile.png
-author: "Michael Fey (MrRooni)"
+title: "HomeKit Builds & Reviews: A Series"
 ---
 
 HomeKits Builds & Reviews: A Series
@@ -58,3 +55,6 @@ Finding ways to automate away the actions that I was doing on a regular basis ha
 I hope you enjoy these posts. As always, don’t forget to like, comment, subscribe and smash that bell so you get notified when I post new content. Wait a minute, wrong social platform…
 
 I will be sharing these posts on Reddit and Twitter, so don’t hesitate to reach out if you’ve got questions or comments. Cheers!
+
+
+
