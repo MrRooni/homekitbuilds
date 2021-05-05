@@ -1,0 +1,1 @@
+This blog details my adventures BUILDING A HOMEKIT HOME MAKE THIS GOOD.
