@@ -3,8 +3,6 @@ layout: post
 title: "HomeKit Builds & Reviews: A Series"
 ---
 
-HomeKits Builds & Reviews: A Series
-
 ## TL;DR
 
 Write one.
