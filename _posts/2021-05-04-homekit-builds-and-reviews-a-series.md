@@ -24,7 +24,7 @@ In 2018 I purchased a pair of HomePods to act as stereo speakers for my living r
 
 Although I had no real desire to build a smart home, there _was_ one piece of tech I wanted: A HomeKit-enabled garage door opener. I even started going down the rabbit hole of researching a Raspberry Pi setup that I could retrofit onto my existing garage door motor. The market for these openers was surprisingly barren and for the longest time it seemed my only option was to spend over $300 to add HomeKit support to my existing opener. I wanted a smart garage door opener, but I didn’t want it that badly.
 
-And then it happened. I caught wind of a company (Meross) making highly-rated _affordable_ HomeKit-enabled garage door openers. I did my research, made sure it would work with my existing motor, and pulled the trigger. It was awesome. I could ask Siri if the garage door was open! I could ask Siri to close the garage door! I could set up a geofence to do the same!
+<img src="/assets/images/meross-opener-small.png" align="left" alt="Meross Smart Wi-Fi Garage Door Opener"/> And then it happened. I caught wind of a company (Meross) making highly-rated _affordable_ HomeKit-enabled garage door openers. I did my research, made sure it would work with my existing motor, and pulled the trigger. It was awesome. I could ask Siri if the garage door was open! I could ask Siri to close the garage door! I could set up a geofence to do the same!
 
 That Meross opener kicked off a whole new hobby. Next thing I knew I was buying smart bulbs, smart wall switches, and door sensors. The Home app moved to my phone’s home screen. I was perusing the HomeKit subreddit and watching YouTube videos looking for tips, tricks, gear reviews, and cool ideas.
 
