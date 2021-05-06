@@ -12,13 +12,13 @@ Now on with the full post:
 
 ## In the Beginning…
 
-![Apple's HomeKit Icon](/assets/icons/HomeKitIcon.png)
+![Apple's HomeKit Icon](/assets/images/HomeKitIcon.png)
 
 My first HomeKit accessory was an ecobee3 smart thermostat that I purchased in 2017 to replace a Nest thermostat that developed a short in its backing plate. I had been an early adopter of Nest (prior to its acquisition) and had been hopeful their products would get HomeKit support. When that turned out to be a false hope I turned the premature death of my Nest thermostat into an opportunity to buy a device that supported Apple’s latest technology endeavor. HomeKit was still relatively new at this point, but being a big Apple nerd I was predisposed to buy in.
 
 That ecobee was also my last HomeKIt device for nearly four years. As cool as it was that Apple was getting into the home automation space, I didn’t really want to have to talk to Siri to turn my lights on and off. I also didn’t want to control my house with my phone. That position was strengthened every time I heard an anecdote about smart bulbs being disconnected because someone flipped off the switch that controlled their power, or a houseguest being unable to figure out how to “use” someone’s smart home.
 
-![The original white HomePod, on a shelf](homepod-white-shelf.jpeg)
+![The original white HomePod, on a shelf](/assets/images/homepod-white-shelf.jpeg)
 
 In 2018 I purchased a pair of HomePods to act as stereo speakers for my living room Apple TV. This was less about building a smart home and more about building a great entertainment setup with killer sound quality. Nonetheless it added the ability to ask Siri questions in an ambient fashion and integrated a voice assistant into my home.
 
