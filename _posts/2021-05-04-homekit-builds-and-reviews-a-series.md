@@ -24,7 +24,7 @@ In 2018 I purchased a pair of HomePods to act as stereo speakers for my living r
 
 Although I had no real desire to build a smart home, there _was_ one piece of tech I wanted: A HomeKit-enabled garage door opener. I even started going down the rabbit hole of researching a Raspberry Pi setup that I could retrofit onto my existing garage door motor. The market for these openers was surprisingly barren and for the longest time it seemed my only option was to spend over $300 to add HomeKit support to my existing opener. I wanted a smart garage door opener, but I didn’t want it that badly.
 
-<img src="/assets/images/meross-opener-small.png" align="right" alt="Meross Smart Wi-Fi Garage Door Opener" style=”margin: 0px 0px 0px 8px;/> And then it happened. I caught wind of a company (Meross) making highly-rated _affordable_ HomeKit-enabled garage door openers. I did my research, made sure it would work with my existing motor, and pulled the trigger. It was awesome. I could ask Siri if the garage door was open! I could ask Siri to close the garage door! I could set up a geofence to do the same!
+<img src="/assets/images/meross-opener-small.png" align="right" alt="Meross Smart Wi-Fi Garage Door Opener"/> And then it happened. I caught wind of a company (Meross) making highly-rated _affordable_ HomeKit-enabled garage door openers. I did my research, made sure it would work with my existing motor, and pulled the trigger. It was awesome. I could ask Siri if the garage door was open! I could ask Siri to close the garage door! I could set up a geofence to do the same!
 
 That Meross opener kicked off a whole new hobby. Next thing I knew I was buying smart bulbs, smart wall switches, and door sensors. The Home app moved to my phone’s home screen. I was perusing the HomeKit subreddit and watching YouTube videos looking for tips, tricks, gear reviews, and cool ideas.
 
@@ -45,7 +45,7 @@ I have a third rule that HomeKit actually solves for me by default: Ensure I’m
 
 ## It’s All About the Automations
 
-<img src="/assets/images/homekit-automations-small.png" align="right" alt="The Automations tab from the Home app" style=”margin: 0px 0px 0px 8px;/> The other thing I’ll cover with each post are the automations I’ve created to make my smart home even smarter. As I mentioned at the top, I’m not interested in having to shout, “Hey Siri” every time I want to turn on a light. The power of HomeKit isn’t being able to yell, “Hey Siri” it’s automations and scheduling.
+<img src="/assets/images/homekit-automations-small.png" align="right" alt="The Automations tab from the Home app"/> The other thing I’ll cover with each post are the automations I’ve created to make my smart home even smarter. As I mentioned at the top, I’m not interested in having to shout, “Hey Siri” every time I want to turn on a light. The power of HomeKit isn’t being able to yell, “Hey Siri” it’s automations and scheduling.
 
 Finding ways to automate away the actions that I was doing on a regular basis has been fantastic and has really made it feel like my HomeKit setup is working for me.
 
