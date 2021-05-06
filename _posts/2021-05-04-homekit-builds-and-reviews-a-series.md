@@ -26,7 +26,7 @@ Although I had no real desire to build a smart home, there _was_ one piece of te
 
 <img src="/assets/images/meross-opener-small.png" align="right" alt="Meross Smart Wi-Fi Garage Door Opener"/> And then it happened. I caught wind of a company named [Meross](https://www.meross.com) making highly-rated _affordable_ HomeKit-enabled garage door openers. I did my research, made sure it would work with my existing motor, and pulled the trigger. It was awesome. I could ask Siri if the garage door was open! I could ask Siri to close the garage door! I could set up a geofence to do the same!
 
-That Meross opener kicked off a whole new hobby. Next thing I knew I was buying smart bulbs, smart wall switches, and door sensors. The Home app moved to my phone’s home screen. I was perusing the HomeKit subreddit and watching YouTube videos looking for tips, tricks, gear reviews, and cool ideas.
+That Meross opener kicked off a whole new hobby. Next thing I knew I was buying smart bulbs, smart wall switches, and door sensors. The Home app moved to my phone’s home screen. I was perusing [the HomeKit subreddit](https://www.reddit.com/r/HomeKit/) and [watching](https://www.youtube.com/channel/UCvzGb0KKrZ7J3TF8hTnNzQw) [YouTube](https://www.youtube.com/watch?v=85yH56DS5mg) [videos](https://www.youtube.com/c/ShaneCreates) looking for tips, tricks, gear reviews, and cool ideas.
 
 I. Was. Hooked.
 
@@ -41,11 +41,11 @@ I am following a set of rules when adding accessories to my home, and I’ll tal
 1.	Make sure all smart accessories can still be controlled via physical controls. 
 2.	Keep it practical. I *could* go nuts with smart everything, but I’m trying to restrict it to enhancements that actually make sense. 
 
-I have a third rule that HomeKit actually solves for me by default: Ensure I’m not crippled by an internet outage. When you add an accessory to HomeKit it is always controlled over your local network via your home hub. Yes, you can access your home when you’re away, but all control within the house happens over the local network, not over the internet.
+I have a third rule that HomeKit actually solves for me by default: Ensure I’m not crippled by an internet outage. When you add an accessory to your home it is always controlled over your local network via your home hub. Yes, you can access your home when you’re away, but all control within the house happens over the local network, not over the internet.
 
 ## It’s All About the Automations
 
-<img src="/assets/images/homekit-automations-small.png" align="right" alt="The Automations tab from the Home app"/> The other thing I’ll cover with each post are the automations I’ve created to make my smart home even smarter. As I mentioned at the top, I’m not interested in having to shout, “Hey Siri” every time I want to turn on a light. The power of HomeKit isn’t being able to yell, “Hey Siri” it’s automations and scheduling.
+<img src="/assets/images/homekit-automations-small.png" align="right" alt="The Automations tab from the Home app"/> The other thing I’ll cover with each post are the automations I’ve created to make my smart home even smarter. As I mentioned at the top, I’m not interested in having to shout, “Hey Siri” every time I want to turn on a light. The power of HomeKit isn’t completely about Siri, it’s about the automations and scheduling.
 
 Finding ways to automate away the actions that I was doing on a regular basis has been fantastic and has really made it feel like my HomeKit setup is working for me.
 
