@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "HomeKit Builds & Reviews: A Series"
 ---
 
