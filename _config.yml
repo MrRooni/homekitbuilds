@@ -1,27 +1,3 @@
 title: HomeKit Builds & Reviews
 description: A blog all about building a smart, sensible home using Apple's HomeKit.
-show_downloads: false
-
-url: "https://homekitbuilds.mrrooni.com" # change this to the base hostname & protocol for your site
-
-
-# cayman-blog date format
-# refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
-cayman-blog:
-  date_format: "%b %-d, %Y"
-
-theme: # leave it empty
-
-# social
-author: Michael Fey
-image: https://mrrooni.com/media/MrRooni%20at%20Apple%20Park.jpg
-twitter:
-  username: mrrooni
-
-plugins:
-  - jekyll-target-blank
-
-target-blank:
-    rel: nofollow
-
-# header_page_refs: ['now', 'about', 'contact']
+theme: jekyll-theme-cayman
