@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: home
 title: "HomeKit Builds & Reviews: A Series"
 ---
 
