@@ -29,7 +29,7 @@ I ended up purchasing the **ecobee4 SmartThermostat with voice control** in 2017
 
 Swapping it in for the Nest was really straightforward. All the power and control wires I needed were already run for both heating and cooling. I then placed the included remote sensor in the upstairs hallway to help even out the temperature readings in the warmer summer months.
 
-INSERT HOME LAYOUT HERE
+![House layout, first floor](/assets/images/home-layout-first-floor.png)
 
 ## The Good
 
