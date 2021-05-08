@@ -52,12 +52,10 @@ Overall I’m really happy with our ecobee. There are some things that could be 
 
 The other aspect that’s a bit off putting is the cost if you want to add extra sensors to your home. A two pack of sensors is $79 USD on Amazon, and rarely moves from that price point. That’s far too expensive for me to consider putting more of them around my house.
 
-The last thing that’s a bit strange is the way it integrates with HomeKit. For example, my **I’m leaving** scene in the Home app says it will adjust the thermostat to 65º. That’s not quite what I want, though; I want the thermostat to enter its "away" state where it cools or heats the house less while I'm gone. To get that behavior I need to open the ecobee app, tap on the **Account** tab, scroll down to **Integrations**, and tap on **HomeKit**. From there I have to scroll down to the **Scenes** bubble, find the **I’m leaving** scene, and make sure it uses my _Away Comfort Setting_. This will ensure that the thermostat does the right thing in both heating and cooling mode. It’s a pretty involved and inscrutable process that I truly wish was clearer and felt less fragile.
+The last thing that’s a bit strange is the way it integrates with HomeKit. For example, my **I’m leaving** scene in the Home app says it will adjust the thermostat to 65º. That’s not quite what I want, though; I want the thermostat to enter its "away" state where it cools or heats the house less while I’m gone. To get that behavior I need to open the ecobee app, tap on the **Account** tab, scroll down to **Integrations**, and tap on **HomeKit**. From there I have to scroll down to the **Scenes** bubble, find the **I’m leaving** scene, and make sure it uses my _Away Comfort Setting_. This will ensure that the thermostat does the right thing in both heating and cooling mode. It’s a pretty involved and inscrutable process that I truly wish was clearer and felt less fragile.
 
 
-GET A SHOT FROM THE HOME APP SHOWING THE CONTROLS of the thermostat
-
-![Home iPad app showing Front Hallway with ecobee thermostat](/assets/images/home-app-front-hallway-ecobee.png)
+![Home iPad app showing Front Hallway with ecobee thermostat](/assets/images/home-app-front-hallway-ecobee.jpeg)
 
 
 ## Automations With This Device
@@ -75,8 +73,6 @@ And two more for the remote sensor:
 1. Motion
 2. Temperature 
 
-SCREEN SHOTS
-
 | Front Hallway | Upstairs Hallway |
 | ------ | ------ |
 | ![Home app showing my front hallway room](/assets/images/home-app-ecobee-front-hallway.jpeg) | ![Home app showing my upstairs hallway room](/assets/images/home-app-ecobee-upstairs-hallway.jpeg) |
@@ -87,19 +83,17 @@ The automations I’ve set up for this thermostat are fairly simple:
 * At 10:20 PM every night, my **Goodnight** scene sets, which sets the thermostat to the overnight temperature.
 * When the first person arrives home, the **I’m home** scene sets, which tells the thermostat to resume its schedule. This works particularly well in case we come home late at night. The ecobee doesn’t start heating or cooling, it just resumes its schedule – even if that’s the overnight one.
 * When the last person leaves, the **I’m leaving** scene sets, which sets the ecobee to its Away Comfort Setting.
-* Of course the internal schedule I’ve set on the ecobee itself, which starts heating or cooling the house at 6:30 in the morning.
+* And lastly the internal schedule I’ve set on the ecobee itself, which starts heating or cooling the house at 6:30 in the morning.
 
 For the most part my interaction with the thermostat is completely hands off. It does what I need it to do when I need it to do it. Occasionally, especially around the change in seasons, I find myself turning the heat on and off based on the high and low temperatures for the day and sometimes I even do that by saying, **Hey Siri, turn off the thermostat.**
 
 ## Wrapping It Up
 
-I would definitely buy another ecobee thermostat if it came down to it. It does what a thermostat needs to do and it does it well. Beyond that it has some really sensible and economical features like eco+ and smart home & away. ecobee (the company) is always looking for ways to improve its products and regularly pushes out updates.
+I would definitely buy another ecobee thermostat if it came down to it. It’s a solid thermostat does its job well. Beyond that it has some really sensible and economical features like eco+ and smart home & away. ecobee (the company) is always looking for ways to improve its products and regularly pushes out updates.
 
-## Links
+## Further Reading
 
-- ecobee site
-- Sensor pack on Amazon
-- Reviews on wire cutter
-
-
-ADD IN PIECE ABOUT EVE WEATBER AND TURNING OFF STAT BASE ON WEATHER. ECOBEE COULD DO THIS ITSELF. TALK ABOUT MY COBBLED SHORTXUT. 
+* [ecobee.com](https://www.ecobee.com)
+* [Ecobee SmartSensor 2 Pack on Amazon.com](https://smile.amazon.com/ecobee-SmartSensor-2-Pack-White/dp/B07NQVWRR3)
+* [The Best Smart Thermostat at Wirecutter](https://www.nytimes.com/wirecutter/reviews/the-best-thermostat/#other-smart-thermostats-we-like)
+* [Best ecobee Thermostats at iMore](https://www.imore.com/best-ecobee-thermostats)
