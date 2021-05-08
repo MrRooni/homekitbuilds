@@ -12,8 +12,8 @@ Welcome to the first post of substance! In today’s post we’ll cover my initi
 
 Even though the ecobee predates the HomeKit rules I’ve set for our house, it follows them nonetheless:
 
-1.	Make sure all smart accessories can still be controlled via physical controls.
-2.	Keep it practical; keep it to enhancements that actually make sense.
+1.  Make sure all smart accessories can still be controlled via physical controls.
+2.  Keep it practical; stick to enhancements that actually make sense.
 
 ## Stay Smart, Stay Economical
 
@@ -89,7 +89,7 @@ For the most part my interaction with the thermostat is completely hands off. It
 
 ## Wrapping It Up
 
-I would definitely buy another ecobee thermostat if it came down to it. It’s a solid thermostat does its job well. Beyond that it has some really sensible and economical features like eco+ and smart home & away. ecobee (the company) is always looking for ways to improve its products and regularly pushes out updates.
+I would definitely buy another ecobee thermostat if I needed to, and I would recommend it to others as well. It’s a solid thermostat that does its job well. Beyond that it has some really sensible and economical features like eco+ and smart home & away that help the environment and save me money. Lastly, ecobee (the company) is always looking for ways to improve its products and regularly pushes out updates that make this smart thermostat even smarter.
 
 ## Further Reading
 
@@ -97,3 +97,4 @@ I would definitely buy another ecobee thermostat if it came down to it. It’s a
 * [Ecobee SmartSensor 2 Pack on Amazon.com](https://smile.amazon.com/ecobee-SmartSensor-2-Pack-White/dp/B07NQVWRR3)
 * [The Best Smart Thermostat at Wirecutter](https://www.nytimes.com/wirecutter/reviews/the-best-thermostat/#other-smart-thermostats-we-like)
 * [Best ecobee Thermostats at iMore](https://www.imore.com/best-ecobee-thermostats)
+
