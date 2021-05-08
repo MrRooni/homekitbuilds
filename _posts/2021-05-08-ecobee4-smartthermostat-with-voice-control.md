@@ -93,8 +93,8 @@ I would definitely buy another ecobee thermostat if I needed to, and I would rec
 
 ## Further Reading
 
+* [Ecobee Smart Thermostat at HomeKit News](https://homekitnews.com/2019/05/30/ecobee-smart-thermostat-2/)
+* [Best ecobee Thermostats at iMore](https://www.imore.com/best-ecobee-thermostats)
+* [The Best Smart Thermostat at Wirecutter](https://www.nytimes.com/wirecutter/reviews/the-best-thermostat/#other-smart-thermostats-we-like)
 * [ecobee.com](https://www.ecobee.com)
 * [Ecobee SmartSensor 2 Pack on Amazon.com](https://smile.amazon.com/ecobee-SmartSensor-2-Pack-White/dp/B07NQVWRR3)
-* [The Best Smart Thermostat at Wirecutter](https://www.nytimes.com/wirecutter/reviews/the-best-thermostat/#other-smart-thermostats-we-like)
-* [Best ecobee Thermostats at iMore](https://www.imore.com/best-ecobee-thermostats)
-
