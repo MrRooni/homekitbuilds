@@ -89,7 +89,7 @@ For the most part my interaction with the thermostat is completely hands off. It
 
 ## Wrapping It Up
 
-I would definitely buy another ecobee thermostat if I needed to, and I would recommend it to others as well. It’s a solid thermostat that does its job well. Beyond that it has some really sensible and economical features like eco+ and smart home & away that help the environment and save me money. Lastly, ecobee (the company) is always looking for ways to improve its products and regularly pushes out updates that make this smart thermostat even smarter.
+I would definitely buy another ecobee thermostat if I needed to, and I would recommend it to others too. It’s a solid thermostat that does its job well. Beyond that it has some really sensible and economical features like eco+ and smart home & away that help the environment and save me money. Lastly, ecobee (the company) is always looking for ways to improve its products and regularly pushes out updates that make this smart thermostat even smarter.
 
 ## Further Reading
 
