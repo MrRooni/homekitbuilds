@@ -17,9 +17,9 @@ Even though the ecobee predates the HomeKit rules I’ve set for our house, it f
 
 ## Stay Smart, Stay Economical
 
-It was Nest that originally popularized the concept of a learning thermostat, and Nest was actually the first smart ecosystem I bought into. I loved the idea of a thermostat that could automatically update my home’s heating and cooling settings based on my habits and routines. It seemed like a great solution to a problem I really wanted to solve: heat and cool my home as efficiently and economically with as little waste as possible.
+It was Nest that originally popularized the concept of a learning thermostat, and Nest was actually the first smart ecosystem I bought into. I loved the idea of a thermostat that could automatically update my home’s heating and cooling settings based on my habits and routines. It seemed like a great solution to a problem I really wanted to solve: heat and cool my home as efficiently, economically, and with as little waste as possible.
 
-The Nest solved this problem for me for a few years until a short in its backing plate left me with a decision: Buy a replacement Nest or buy an accessory that supported Apple’s new home automation standard.
+The Nest solved this problem for me for a few years until an electrical short in its backing plate left me with a decision: Buy a replacement Nest or buy an accessory that supported Apple’s new home automation standard.
 
 ## Enter The Bee
 
@@ -27,7 +27,7 @@ The Nest solved this problem for me for a few years until a short in its backing
 
 I ended up purchasing the **ecobee4 SmartThermostat with voice control** in 2017. The reviews were solid, the company presented a consumer friendly face, and of course it supported HomeKit.
 
-Swapping it in for the Nest was really straightforward. All the power and control wires I needed were already in place for both heating and cooling. I placed the included remote sensor in the upstairs hallway to help even out the temperature readings in the warmer summer months.
+Swapping it in for the Nest was really straightforward. All the power and control wires I needed were already run for both heating and cooling. I placed the included remote sensor in the upstairs hallway to help even out the temperature readings in the warmer summer months.
 
 INSERT HOME LAYOUT HERE
 
@@ -35,7 +35,7 @@ INSERT HOME LAYOUT HERE
 
 Over the last few years the ecobee has been a really nice thermostat for our forced air heating and cooling system. Even though it’s a learning thermostat, we ended up just setting a set schedule for the week with a slightly modified one for the weekends. One aspect that has worked incredibly well, though, is the ability to have the thermostat reduce our energy usage when we’re out of the house and then resume our schedule when we return. This was the problem I really wanted to solve with a smart thermostat and the ecobee does it perfectly.
 
-Another aspect that’s been a nice touch has been the service and filter reminders. Once per year I will get a notification that it’s time to have my HVAC (heating, ventilation, and cooling) equipment serviced. More frequently I receive notifications to replace my furnace’s air filter. Knowing that the filter reminders happen based on usage and not just a set schedule means that I’m not always replacing filters that haven’t seen much use.
+Another aspect that I appreciate are the service and filter reminders. Once per year I will get a notification that it’s time to have my HVAC (heating, ventilation, and cooling) equipment serviced. More frequently I receive notifications to replace my furnace’s air filter. Knowing that the filter reminders happen based on usage and not just a set schedule means that I’m not always replacing filters that haven’t seen much use.
 
 ecobee (the company) has been pushing out consistent updates to both its app and the thermostat itself which have delivered some new features like eco+ which is actually five features in one:
 
@@ -46,25 +46,23 @@ ecobee (the company) has been pushing out consistent updates to both its app and
 
 ## Room For Improvement
 
-Overall I’m really happy with our ecobee. There are some things that could be better, though. For one, the mobile app is a bit hard to navigate. I routinely have to tap around quite a bit to get to the settings I’m looking for. It also doesn’t look or feel like an iOS app, but rather one that was cobbled together from one of those development tools that spits out an iOS and Android app from the same code base. The iPad app, while it suffers from the same lack of a native interface, is much nicer.
-￼
-￼![ecobee iPad app](/assets/images/ecobee-ipad-app.png)
+Overall I’m really happy with our ecobee. There are some things that could be better, though. For one, the mobile app is a bit hard to navigate. I routinely have to tap around quite a bit to get to the settings I’m looking for. It also doesn’t look or feel like an iOS app, but rather one that was the result of one of those development tools that spits out an iOS and Android app from the same code base. The iPad app, while it suffers from the same lack of a native interface, is much nicer.
 
+![ecobee iPad app](/assets/images/ecobee-ipad-app.png)
 
 The other aspect that’s a bit off putting is the cost if you want to add extra sensors to your home. A two pack of sensors is $79 USD on Amazon, and rarely moves from that price point. That’s far too expensive for me to consider putting more of them around my house.
 
-The last thing that’s a bit strange is the way it integrates with HomeKit. For example, my “I’m leaving” scene in the Home app says it will adjust the thermostat to 65º. That’s not quite what I want, though. To get the actual behavior I want I need to open the ecobee app, tap on the **Account** tab, scroll down to **Integrations** and tap on **HomeKit**. Then I scroll down to the **Scenes** bubble, find the “I’m leaving” scene, and make sure it uses my _Away Comfort Setting_. This will ensure that the thermostat does the right thing in both heating and cooling mode. It’s a pretty involved and inscrutable process that I truly wish was clearer and felt less fragile.
+The last thing that’s a bit strange is the way it integrates with HomeKit. For example, my “I’m leaving” scene in the Home app says it will adjust the thermostat to 65º. That’s not quite what I want, though; I want the thermostat to enter its "away" state where it cools or heats the house less while I'm gone. To get that behavior I need to open the ecobee app, tap on the **Account** tab, scroll down to **Integrations**, and tap on **HomeKit**. From there I have to scroll down to the **Scenes** bubble, find the “I’m leaving” scene, and make sure it uses my _Away Comfort Setting_. This will ensure that the thermostat does the right thing in both heating and cooling mode. It’s a pretty involved and inscrutable process that I truly wish was clearer and felt less fragile.
 
 
-- Get some screen shots from the app.
-- Screenshots of the app and of HomeKit
+GET A SHOT FROM THE HOME APP SHOWING THE CONTROLS of the thermostat
 
-￼￼![Home iPad app showing Front Hallway with ecobee thermostat](/assets/images/home-app-front-hallway-ecobee.png)
+![Home iPad app showing Front Hallway with ecobee thermostat](/assets/images/home-app-front-hallway-ecobee.png)
 
 
 ## Automations With This Device
 
-Being my first ever HomeKit accessory, I didn’t quite grasp how to set it up at first within the Home app. For the longest time I had a single accessory named “ecobee” in a room in my Home that was named “House”. Today, though, I have a “Thermostat” in my “Front Hallway”. I have the remote sensor in my Upstairs Hallway where it shows up as two named sensors: “Temperature” and “Motion”.
+Being my first ever HomeKit accessory, I didn’t quite grasp how to set it up within the Home app. For the longest time I had a single accessory named “ecobee” in a room in my Home that was named “House”. Today, though, I have a “Thermostat” in my “Front Hallway”. I have the remote sensor in my Upstairs Hallway where it shows up as two named sensors: “Temperature” and “Motion”.
 
 All told the ecobee thermostat adds three different sensors in the Home app:
 
@@ -78,6 +76,11 @@ And two more for the remote sensor:
 2. Temperature 
 
 SCREEN SHOTS
+
+| Front Hallway | Upstairs Hallway |
+| ------ | ------ |
+| ![Home app showing my front hallway room](/assets/images/home-app-ecobee-front-hallway.jpeg) | ![Home app showing my upstairs hallway room](/assets/images/home-app-ecobee-upstairs-hallway.jpeg) |
+
 
 The automations I’ve set up for this thermostat are fairly simple:
 
