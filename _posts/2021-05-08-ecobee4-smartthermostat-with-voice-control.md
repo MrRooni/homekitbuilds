@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HomeKit Build & Review: ecobee4 SmartThermostat with voice control"
+title: "HomeKit Build & Review: ecobee4 SmartThermostat with Voice Control"
 excerpt: "Welcome to the first post of substance! In today’s post we’ll cover my initial piece of HomeKit tech: The ecobee smart thermostat."
 ---
 
@@ -23,11 +23,11 @@ The Nest solved this problem for me for a few years until an electrical short in
 
 ## Enter The Bee
 
-￼![ecobee logo](/assets/images/ecobee-logo.png)
+￼![ecobee lifestyle image](/assets/images/ecobee-lifestyle-shot.png)
 
 I ended up purchasing the **ecobee4 SmartThermostat with voice control** in 2017. The reviews were solid, the company presented a consumer friendly face, and of course it supported HomeKit.
 
-Swapping it in for the Nest was really straightforward. All the power and control wires I needed were already run for both heating and cooling. I placed the included remote sensor in the upstairs hallway to help even out the temperature readings in the warmer summer months.
+Swapping it in for the Nest was really straightforward. All the power and control wires I needed were already run for both heating and cooling. I then placed the included remote sensor in the upstairs hallway to help even out the temperature readings in the warmer summer months.
 
 INSERT HOME LAYOUT HERE
 
