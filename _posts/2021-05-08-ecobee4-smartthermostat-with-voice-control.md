@@ -52,7 +52,7 @@ Overall I’m really happy with our ecobee. There are some things that could be 
 
 The other aspect that’s a bit off putting is the cost if you want to add extra sensors to your home. A two pack of sensors is $79 USD on Amazon, and rarely moves from that price point. That’s far too expensive for me to consider putting more of them around my house.
 
-The last thing that’s a bit strange is the way it integrates with HomeKit. For example, my “I’m leaving” scene in the Home app says it will adjust the thermostat to 65º. That’s not quite what I want, though; I want the thermostat to enter its "away" state where it cools or heats the house less while I'm gone. To get that behavior I need to open the ecobee app, tap on the **Account** tab, scroll down to **Integrations**, and tap on **HomeKit**. From there I have to scroll down to the **Scenes** bubble, find the “I’m leaving” scene, and make sure it uses my _Away Comfort Setting_. This will ensure that the thermostat does the right thing in both heating and cooling mode. It’s a pretty involved and inscrutable process that I truly wish was clearer and felt less fragile.
+The last thing that’s a bit strange is the way it integrates with HomeKit. For example, my **I’m leaving** scene in the Home app says it will adjust the thermostat to 65º. That’s not quite what I want, though; I want the thermostat to enter its "away" state where it cools or heats the house less while I'm gone. To get that behavior I need to open the ecobee app, tap on the **Account** tab, scroll down to **Integrations**, and tap on **HomeKit**. From there I have to scroll down to the **Scenes** bubble, find the **I’m leaving** scene, and make sure it uses my _Away Comfort Setting_. This will ensure that the thermostat does the right thing in both heating and cooling mode. It’s a pretty involved and inscrutable process that I truly wish was clearer and felt less fragile.
 
 
 GET A SHOT FROM THE HOME APP SHOWING THE CONTROLS of the thermostat
@@ -62,7 +62,7 @@ GET A SHOT FROM THE HOME APP SHOWING THE CONTROLS of the thermostat
 
 ## Automations With This Device
 
-Being my first ever HomeKit accessory, I didn’t quite grasp how to set it up within the Home app. For the longest time I had a single accessory named “ecobee” in a room in my Home that was named “House”. Today, though, I have a “Thermostat” in my “Front Hallway”. I have the remote sensor in my Upstairs Hallway where it shows up as two named sensors: “Temperature” and “Motion”.
+Being my first ever HomeKit accessory, I didn’t quite grasp how to set it up within the Home app. For the longest time I had a single accessory named **ecobee** in a room in my Home that was named **House**. Today, though, I have a **Thermostat** in my **Front Hallway**. I have the remote sensor in my Upstairs Hallway where it shows up as two named sensors: **Temperature** and **Motion**.
 
 All told the ecobee thermostat adds three different sensors in the Home app:
 
@@ -85,11 +85,11 @@ SCREEN SHOTS
 The automations I’ve set up for this thermostat are fairly simple:
 
 * At 10:20 PM every night, my **Goodnight** scene sets, which sets the thermostat to the overnight temperature.
-* When the first person arrives home, the **I’m home** scene sets, which tells the thermostat to resume its schedule. This works particularly well in case we come home late at night. The ecobee doesn’t start heating or cooling, it just resumes its schedule - even if that’s the overnight one.
+* When the first person arrives home, the **I’m home** scene sets, which tells the thermostat to resume its schedule. This works particularly well in case we come home late at night. The ecobee doesn’t start heating or cooling, it just resumes its schedule – even if that’s the overnight one.
 * When the last person leaves, the **I’m leaving** scene sets, which sets the ecobee to its Away Comfort Setting.
 * Of course the internal schedule I’ve set on the ecobee itself, which starts heating or cooling the house at 6:30 in the morning.
 
-For the most part my interaction with the thermostat is completely hands off. It does what I need it to do when I need it to do it. Occasionally, especially around the change in seasons, I find myself turning the heat on and off based on the high and low temperatures for the day and sometimes I even do that by saying, “Hey Siri, turn off the thermostat.”
+For the most part my interaction with the thermostat is completely hands off. It does what I need it to do when I need it to do it. Occasionally, especially around the change in seasons, I find myself turning the heat on and off based on the high and low temperatures for the day and sometimes I even do that by saying, **Hey Siri, turn off the thermostat.**
 
 ## Wrapping It Up
 
