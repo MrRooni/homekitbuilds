@@ -111,6 +111,9 @@ a {
   text-align: center;
   background-color: $header-bg-color;
   background-image: url("/assets/images/homekit-builds-site-header.png"), linear-gradient(120deg, $header-bg-color-secondary, $header-bg-color);
+  background-position: bottom;
+  background-size: contain;
+  background-repeat: no-repeat;
   
   @include large {
     padding: 5rem 6rem;
