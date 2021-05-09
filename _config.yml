@@ -12,6 +12,9 @@ cayman-blog:
 
 theme: # leave it empty
 
+# The most paired-down tracking possible on this account. Page views only.
+google_analytics: "G-XCW0WL7FRN"
+
 # social
 author: Michael Fey
 image: https://mrrooni.com/media/MrRooni%20at%20Apple%20Park.jpg
