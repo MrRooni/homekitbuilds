@@ -11,16 +11,14 @@ layout: default
   <div>&nbsp;</div>
 
     {% for post in site.posts %}
-
-        {% assign date_format = site.cayman-blog.date_format | default: "%b %-d, %Y" %}
-        <span class="post-meta">{{ post.date | date: date_format }}</span>
-
         <h2 class="post-link">
           <a class="post-link" href="{{ post.url | absolute_url }}" title="{{ post.title }}">{{ post.title | escape }}</a>
         </h2>
 
-        {{ post.excerpt | markdownify }}
+        {% assign date_format = site.cayman-blog.date_format | default: "%b %-d, %Y" %}
+        <span class="post-meta">{{ post.date | date: date_format }}</span>
 
+        {{ post.excerpt | markdownify }}
     {% endfor %}
 
 </div>
