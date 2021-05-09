@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "HomeKit Builds & Reviews: A Series"
-excerpt: "After a number of years of not caring too much about HomeKit I picked up a couple of accessories and started nerding out on it _hard_. I’m going to use this blog to write up the problems I’m solving, the accessories I’m using to solve them, and my reviews of those accessories."
+excerpt: "After a number of years of not caring too much about HomeKit I picked up a couple of accessories and started nerding out on it _hard_. I’m going to use this site to write up the problems I’m solving, the accessories I’m using to solve them, and my reviews of those accessories."
 ---
 
 ## TL;DR
 
-After a number of years of not caring too much about HomeKit I picked up a couple of accessories and started nerding out on it _hard_. I’m going to use this blog to write up the problems I’m solving, the accessories I’m using to solve them, and my reviews of those accessories. 
+After a number of years of not caring too much about HomeKit I picked up a couple of accessories and started nerding out on it _hard_. I’m going to use this site to write up the problems I’m solving, the accessories I’m using to solve them, and my reviews of those accessories. 
 
 Now on with the full post:
 
