@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HomeKit Build & Review: ecobee4 SmartThermostat with Voice Control"
+title: "HomeKit Build & Review: ecobee4 SmartThermostat"
 excerpt: "Welcome to the first post of substance! In today’s post we’ll cover my initial piece of HomeKit tech: The ecobee smart thermostat."
 ---
 
