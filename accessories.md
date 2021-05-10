@@ -9,7 +9,7 @@ tagline: My current HomeKit setup.
 * Eve Extend
     * [Eve Extend Bluetooth Range Extender at evehome.com](https://www.evehome.com/en-us/eve-extend)
     * [Eve Extend at amazon.com](https://www.amazon.com/gp/product/B07X1LCK8N/)
-* Lutron Smart Bridge 
+* Lutron Caséta Smart Bridge 
     * [Smart Bridge at casetawireless.com](https://www.casetawireless.com/products/expansion-kits-and-smart-bridge)
     * [Lutron Caseta Wireless Smart Bridge at amazon.com](https://www.amazon.com/Lutron-Caseta-Wireless-Bridge-L-BDG2-WH/dp/B00XPW67ZM/)
 
