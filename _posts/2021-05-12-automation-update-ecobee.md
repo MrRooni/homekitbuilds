@@ -32,4 +32,4 @@ I run this at 8:30 every morning. This time was set by my daughter because she e
 
 ![Daily ecobee shortcut automation](/assets/images/daily-ecobee-automation.png)
 
-![ecobee auto shutoff automation](/assets/images/ecobee-auto-shutoff-shortcut-notification.png)
+![ecobee auto shutoff automation](/assets/images/ecobee-auto-shutoff-shortcut.png)
