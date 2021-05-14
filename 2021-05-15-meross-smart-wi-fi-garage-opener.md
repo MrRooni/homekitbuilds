@@ -24,7 +24,7 @@ The situation with Chamberlain hasn’t really changed five years later — thei
 
 ## When Life Closes a Door, Meross Opens It Again
 
-I came across the [Meross MSG100 Smart Wi-Fi Garage Door Opener](https://www.meross.com/Detail/29/Smart%20Wi-Fi%20Garage%20Door%20Opener) early on in my search and it immediately hit the right mix of price and positive reviews. There are a lot of factors when it comes to buying a third party accessory for your garage door motor, not the least of which is compatibility. The Meross unit actually had an extra complication that almost tripped me up: They sell the exact same unit in two different varieties, one with HomeKit and one without. If you’re shopping on Amazon, [this is the one you want](https://www.amazon.com/dp/B084Z5QZR2).
+<img src="/assets/images/garage-door-was-opened-notification.png" align="right" alt="Garage Door Was Opened notification"/> I came across the [Meross MSG100 Smart Wi-Fi Garage Door Opener](https://www.meross.com/Detail/29/Smart%20Wi-Fi%20Garage%20Door%20Opener) early on in my search and it immediately hit the right mix of price and positive reviews. There are a lot of factors when it comes to buying a third party accessory for your garage door motor, not the least of which is compatibility. The Meross unit actually had an extra complication that almost tripped me up: They sell the exact same unit in two different varieties, one with HomeKit and one without. If you’re shopping on Amazon, [this is the one you want](https://www.amazon.com/dp/B084Z5QZR2).
 
 Once I had confirmed that Meross supported my particular opener using their [compatibility tool](https://www.meross.com/support/Compatibility_Check), and I made sure I had added the right one to my cart, I hit the buy button.
 
@@ -34,7 +34,7 @@ Here's what it looks like in my unfinished garage. Yes, it's probably one of my 
 
 ![Meross Garage Door Opener installation in my garage](/assets/images/meross-opener-installation.jpg)
 
-## Where It Sits In My Home
+## Where It Resides In My Home
 
 The opener sits about 19 feet from my router which gives it a really strong signal. I've had no trouble communicating with the opener or had it become nonresponsive within the Home app.
 
