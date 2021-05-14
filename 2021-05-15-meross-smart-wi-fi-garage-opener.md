@@ -10,15 +10,15 @@ Ever since the introduction of HomeKit there’s been one accessory that I’ve 
 
 ## “Did you shut the door before we left?”
 
-While the dying batteries in our remotes were the impetus for my renewed interest in a HomeKit garage door opener, it wasn’t the main problem I was looking. No, the real problem occurred on a semi-regular basis when my family and I would head out on some excursion. We’d be anywhere from the end of the block to a mile away when my wife or I would say to the other, “did we close the garage door?” Almost without fail we’d pull a u-turn and go check. There are lots of ways to fix this problem, including being more mindful about our actions, but I was looking for a safety net that would give us peace of mind even when weren’t being mindful.
+While the dying batteries in our remotes were the impetus for my renewed interest in a HomeKit garage door opener, it wasn’t the main problem I wanted to solve. No, the real problem occurred on a semi-regular basis when my family and I would head out on some excursion. We’d be anywhere from the end of the block to a mile away when my wife or I would say to the other, “did we close the garage door?” Almost without fail we’d pull a u-turn and go check. There are lots of ways to fix this problem, including being more mindful about our actions, but I was looking for a safety net that would give us peace of mind even when weren’t being mindful.
 
 ## What I Didn’t Buy
 
 ![Chambelain MyQ System](/assets/images/chamberlain-myq-system.png)
 
-When we first moved in to this house there was an old garage door opener that sounded like a rock tumbler every time you opened or closed the door. To call it loud was an understatement — it shook the house. My primary focus for a new opener was sound, which led me to the [Chamberlain Whisper Drive Belt Drive Garage Door Opener](https://www.lowes.com/pd/Chamberlain-0-75-HP-Whisper-Drive-Belt-Drive-Garage-Door-Opener-with-Battery-Back-Up/3653300). The fact that it was compatible with Chamberlain’s MyQ smart home system wasn’t even a blip on my radar at the time, but it definitely came up with the launch of HomeKit. Chamberlain was actually one of the first manufacturers to jump on the Apple bandwagon and add support for HomeKit to their existing MyQ system. They did this by way of an extra hub that you install near your garage door opener. For our MyQ-ready opener that meant buying the MyQ hub and then an _extra_ hub to enable HomeKit support. The price was for this setup was well over $100 and was far more than I was willing to spend at the time. It felt especially egregious because the MyQ hub itself was around $40, while the HomeKit add-on clocked in at around $150.
+When we first moved in to this house there was an old garage door opener that sounded like a rock tumbler every time you opened or closed the door. To call it loud was an understatement — it shook the house. My primary focus for a new opener was sound, which led me to the [Chamberlain Whisper Drive Garage Door Opener](https://www.lowes.com/pd/Chamberlain-0-75-HP-Whisper-Drive-Belt-Drive-Garage-Door-Opener-with-Battery-Back-Up/3653300). The fact that it was compatible with Chamberlain’s MyQ smart home system wasn’t even a blip on my radar at the time, but it definitely came up with the launch of HomeKit. Chamberlain was actually one of the first manufacturers to jump on the Apple bandwagon and add support for HomeKit to their existing MyQ system. They did this by way of an extra hub that you install near your garage door opener. For our MyQ-ready opener that meant buying the MyQ hub and then an _extra_ hub to enable HomeKit support. The price was for this setup was well over $100 and was far more than I was willing to spend at the time. It felt especially egregious because the MyQ hub itself was around $40, while the HomeKit add-on clocked in at around $150.
 
-The situation with Chamberlain hasn’t really changed five years later — their proprietary system for HomeKit is still offensively priced. What _is_ different in 2021 is that now there are options. 
+The situation with Chamberlain hasn’t really changed five years later — their proprietary system for HomeKit is still offensively priced. What _is_ different in 2021 is that now there are other options. 
 
 ## When Life Closes a Door, Meross Opens It Again
 
@@ -42,13 +42,13 @@ Most importantly it solved the problem I was hoping to solve plus a few more:
 
 * No longer are we pulling u-turns to double check on the state of the garage door after we leave the house.
 * Automations now close the door automatically in the evening.
-* If I feel the need to check the door before bed I don’t need to go farther than my nightstand to do it.
+* If I feel the need to check the door before bed I don’t need to go any farther than my phone on my nightstand.
 
 Beyond the automations that I’ll get in to below, I’ve found myself saying, **Hey Siri, close the garage door** while packing the car up to go places. It’s a small thing, but it works much better than our often-unreliable clickers.
 
 ## The Not So Good
 
-As wonderful as this new accessory is there are a few things I discovered that you should be aware of, too.
+As wonderful as this new accessory is there are a few things that surprised me.
 
 For one, I assumed I would be able to have a fully automated setup with our garage door. I had visions of it closing automatically as we rolled down the street away from the house and magically opening again when we return. This is not the case though, and that’s a HomeKit limitation, not a Meross one. As it turns out, any scene that contains a HomeKit accessory that allows entry into your home must be confirmed before being run.
 
@@ -56,25 +56,25 @@ For one, I assumed I would be able to have a fully automated setup with our gara
 
 The other thing that I’ve come to realize is that our home’s geofence is _large_. It stretches clear to the adjacent neighborhood and I frequently will get pings to run automations while I’m out for walks that take me back within range. I would love to see Apple give us a way to adjust the size of the geofence in iOS 15.
 
-The only thing that would have made me reconsider this purchase was the fact that in the end I added another battery-operated dependency to my garage door system. I could _probably_ (maybe?) retrofit the opener with an AC adapter, but the chances of me ever getting to that are pretty small.
+The only thing that would have made me reconsider this purchase was the fact that in the end I added another battery-operated dependency to my garage door system. I could _probably_ retrofit the opener with an AC adapter, but the chances of me ever getting to that are pretty small.
 
 ## Automations With This Device
 
 Our garage door is probably one of the most automated devices in my home:
 
-* **At 8:30 PM, Daily** the garage door will close. This time also coincides for lights out for our kids, so it’s great audible reminder to tell them to go to sleep.
-* **10:20 PM, Daily** our **Good night** scene sets and our garage door is part of this scene as well. If the door was opened some time after 8:30, this automation closes it again.
-* **Midnight, Daily** I have a catch-all automation run that turns off all lights and yet again, closes the garage door. It’s rare that anyone is out and about after midnight so this is a nice final safety net for the day.
 * **When Anyone Arrives Home** they are prompted to open the garage door.
 * **When Anyone Leaves Home** they are prompted to close the garage door.
+* **At 8:30 PM, Daily** the garage door will close. This time also coincides with "lights out" for our kids, so it’s great audible reminder to tell them to go to sleep.
+* **10:20 PM, Daily** our **Good night** scene sets, which includes closing the garage door. If the door was opened some time after 8:30, this automation closes it again.
+* **Midnight, Daily** I have a catch-all automation that turns off all lights in the house and, yet again, closes the garage door. It’s rare that anyone is out and about after midnight so this is a nice final safety net for the day.
 
-What’s nice about the prompts to open and close the garage door is that they punch through **Do Not Disturb While Driving**, so I do actually get prompted as I pull up to the house.
+What’s nice about the prompts to open and close the garage door is that they punch through **Do Not Disturb While Driving**, so I actually do get prompted as I pull up to the house.
 
-Another thing I did with the automations on this one was that I separated out the arrival and departure automations for the garage door from the rest of my arrival and departure automations. I want the thermostat to set itself to **Away** without me having to confirm it, and if I made it part of the same automation that controls the garage door I would have to confirm it every time.
+One explicit choice I made with my automations was that I separated out the arrival and departure automations for the garage door from the rest of my arrival and departure automations. I want the thermostat to set itself to **Away** without me having to confirm it, and if I made it part of the same automation that controls the garage door I would have to confirm it every time.
 
-￼| header | header |
+| When Anyone Leaves | When the Last Person Leaves |
 | ------ | ------ |
-| ![Garage door automation when anyone leaves home](/assets/images/garage-door-automation-3.png) | ![Automation when the last person leaves home](/assets/images/garage-door-automation-3.png) |
+| ![Garage door automation when anyone leaves home](/assets/images/garage-door-automation-2.png) | ![Automation when the last person leaves home](/assets/images/garage-door-automation-3.png) |
 
 
 ## Conclusion
@@ -90,8 +90,8 @@ If you’re in the market for a HomeKit upgrade for your current garage door ope
 
 ## Further Reading
 
-* Ecobee Smart Thermostat at HomeKit News
-* Best ecobee Thermostats at iMore
-* The Best Smart Thermostat at Wirecutter
-* ecobee.com
-* Ecobee SmartSensor 2 Pack on Amazon.com
+* [Garage Door Openers at HomeKit News](https://homekitnews.com/tag/garage-door-opener/)
+* [Best HomeKit Garage Door Openers at iMore](https://www.imore.com/best-homekit-garage-door-openers)
+* [The Best Smart Garage Door Opener Controller at Wirecutter](https://www.nytimes.com/wirecutter/reviews/best-smart-garage-door-controller/)
+* [meross.com](https://www.meross.com/)
+* [meross Smart Garage Door Opener Remote, Compatible with Apple HomeKit at Amazon](https://www.amazon.com/dp/B084Z5QZR2)
