@@ -36,6 +36,10 @@ Here's what it looks like in my unfinished garage. Yes, it's probably one of my 
 
 ![Meross Garage Door Opener installation in my garage](/assets/images/meross-opener-installation.jpg)
 
+The sensor is a simple magnetic contact sensor that I mounted alongside the rails of my garage door using a spare piece of trim and some lag bolts from a prior projects. Again, she may not look like much, but she's got it where it counts.
+
+![Meross Garage Door sensor installation in my garage](/assets/images/garage-door-installation.jpg)
+
 ## Where It Resides In My Home
 
 The opener sits about 19 feet from my router which gives it a really strong signal. I've had no trouble communicating with the opener nor have I seen it become non-responsive within the Home app.
