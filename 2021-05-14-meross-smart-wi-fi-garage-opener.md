@@ -36,7 +36,7 @@ Here's what it looks like in my unfinished garage. Yes, it's probably one of my 
 
 ![Meross Garage Door Opener installation in my garage](/assets/images/meross-opener-installation.jpg)
 
-The sensor is a simple magnetic contact sensor that I mounted alongside the rails of my garage door using a spare piece of trim and some lag bolts from a prior projects. Again, she may not look like much, but she's got it where it counts.
+The sensor is a simple magnetic contact sensor that I mounted alongside the rails of my garage door using a spare piece of trim and some lag bolts from some prior projects. The other half of the sensor is attached to the door itself, and when closed they line up perfectly. Again, she may not look like much, but she's got it where it counts.
 
 ![Meross Garage Door sensor installation in my garage](/assets/images/garage-door-installation.jpg)
 
