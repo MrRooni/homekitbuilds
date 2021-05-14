@@ -4,6 +4,8 @@ title: "HomeKit Build & Review: Meross Smart Wi-Fi Garage Door Opener"
 excerpt: "The accessory that kicked off my HomeKit hobby in earnest, the Meross garage door opener was truly the Home addition I’d been waiting for."
 ---
 
+![Meross Smart Wi-Fi Garage Door Opener](/assets/images/meross-opener.png)
+
 ## Looking for an Opening
 
 Ever since the introduction of HomeKit there’s been one accessory that I’ve been pining after over all others: a garage door opener. For the longest time the options were incredibly limited and extremely pricey. At one point back in 2016 I even started researching [DIY solutions](https://www.youtube.com/watch?v=03J497Pmve4). That all changed this year when our garage door remotes started dying. Our garage door is the primary ingress and egress for our home, and the possibility of getting locked out of the house restarted my search for a HomeKit enabled garage door opener accessory. First I replaced the batteries in our clickers, and then I opened a new browser tab to dive into some research.
@@ -21,8 +23,6 @@ When we first moved in to this house there was an old garage door opener that so
 The situation with Chamberlain hasn’t really changed five years later — their proprietary system for HomeKit is still offensively priced. What _is_ different in 2021 is that now there are other options. 
 
 ## When Life Closes a Door, Meross Opens It Again
-
-![Meross Smart Wi-Fi Garage Door Opener](/assets/images/meross-opener.png)
 
 I came across the [Meross MSG100 Smart Wi-Fi Garage Door Opener](https://www.meross.com/Detail/29/Smart%20Wi-Fi%20Garage%20Door%20Opener) early on in my search and it immediately hit the right mix of price and positive reviews. There are a lot of factors when it comes to buying a third party accessory for your garage door motor, not the least of which is compatibility. The Meross unit actually had an extra complication that almost tripped me up: They sell the exact same unit in two different varieties, one with HomeKit and one without. If you’re shopping on Amazon, [this is the one you want](https://www.amazon.com/dp/B084Z5QZR2).
 
