@@ -18,7 +18,7 @@ While the dying batteries in our remotes were the impetus for my renewed interes
 
 ## What I Didn’t Buy
 
-![Chambelain MyQ System](/assets/images/chamberlain-myq-system.png)
+![Chamberlain MyQ System](/assets/images/chamberlain-myq-system.png)
 
 When we first moved into this house there was an old garage door opener that sounded like a rock tumbler every time you opened or closed the door. To call it loud was an understatement — it shook the house. My primary focus for a new opener was sound, which led me to the [Chamberlain Whisper Drive Garage Door Opener](https://www.lowes.com/pd/Chamberlain-0-75-HP-Whisper-Drive-Belt-Drive-Garage-Door-Opener-with-Battery-Back-Up/3653300). The fact that it was compatible with Chamberlain’s MyQ smart home system wasn’t even a blip on my radar at the time, but it definitely came up with the launch of HomeKit. Chamberlain was actually one of the first manufacturers to jump on the Apple bandwagon and add support for HomeKit to their existing MyQ system. They did this by way of an extra hub that you install near your garage door opener. For our MyQ-ready opener that meant buying the MyQ hub and then an _extra_ hub to enable HomeKit support. The price was for this setup was well over $100 and was far more than I was willing to spend at the time. It felt especially egregious because the MyQ hub itself was around $40, while the HomeKit add-on clocked in at two or three times that.
 
@@ -38,7 +38,7 @@ Here's what it looks like in my unfinished garage. Yes, it's probably one of my 
 
 ## Where It Resides In My Home
 
-The opener sits about 19 feet from my router which gives it a really strong signal. I've had no trouble communicating with the opener nor have I seen it become nonresponsive within the Home app.
+The opener sits about 19 feet from my router which gives it a really strong signal. I've had no trouble communicating with the opener nor have I seen it become non-responsive within the Home app.
 
 ![House layout, first floor](/assets/images/home-layout-first-floor.png)
 
@@ -104,5 +104,5 @@ If you’re in the market for a HomeKit upgrade for your current garage door ope
 * [Best HomeKit Garage Door Openers at iMore](https://www.imore.com/best-homekit-garage-door-openers)
 * [The Best Smart Garage Door Opener Controller at Wirecutter](https://www.nytimes.com/wirecutter/reviews/best-smart-garage-door-controller/)
 * [meross.com](https://www.meross.com/)
-* [meross Smart Garage Door Opener Remote, Compatible with Apple HomeKit at Amazon](https://www.amazon.com/dp/B084Z5QZR2)
+* [Meross Smart Garage Door Opener Remote, Compatible with Apple HomeKit at Amazon](https://www.amazon.com/dp/B084Z5QZR2)
 * [Meross E-mail Support](mailto:support@meross.com)
