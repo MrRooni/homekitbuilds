@@ -30,6 +30,14 @@ Once I had confirmed that Meross supported my particular opener using their [com
 
 One thing that was mentioned in the Amazon store listing was that I needed to email them for an additional accessory to work with my opener. Their email support (support@meross.com) was very responsive and after confirming some details about my unit sent the accessory in the mail. I assumed I would be receiving some sort of interface box to bridge the two wires coming out of the Meross with the inputs on my opener motor. When I received the package I had to chuckle because it was a brand-less opener remote with two wires coming out of it. I paired it with my opener, connected it to the Meross and I was off to the races.
 
+Here's what it looks like in my unfinished garage. Yes, it's probably one of my least attractive HomeKit installations, but it's on-brand for this area of the house.
+
+![Meross Garage Door Opener installation in my garage](/assets/images/meross-opener-installation.jpg)
+
+## Where It Sits In My Home
+
+The opener sits about 19 feet from my router which gives it a really strong signal. I've had no trouble communicating with the opener or had it become nonresponsive within the Home app.
+
 ![House layout, first floor](/assets/images/home-layout-first-floor.png)
 
 ## The Good
