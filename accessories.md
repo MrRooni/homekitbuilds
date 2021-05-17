@@ -2,6 +2,7 @@
 layout: page
 title: Accessories
 tagline: My current HomeKit setup.
+ref: accessories
 ---
 
 ## Bridges
