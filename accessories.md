@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Accessories
+title: My HomeKit Accessories
 tagline: My current HomeKit setup.
 ref: accessories
 ---
