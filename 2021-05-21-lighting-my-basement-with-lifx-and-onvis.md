@@ -18,9 +18,9 @@ With my newfound HomeKit hobby, however, I realized there was a better way than 
 
 I picked up a four pack of [LIFX Mini Day & Dusk bulbs at amazon.com](https://www.amazon.com/gp/product/B072Y6X7QS/) based on a few criteria:
 
-	0.	**The fact that they didn’t need a hub.** While Philips Hue is the most popular smart bulb system, it requires an extra hub to work, and I wasn’t prepared to buy into an entire ecosystem for an endeavor that was still an experiment.
-	0.	**Their review rating** — 4.4 stars out of 5 with nearly 7,000 reviews.
-	0.	**The price.** $74 over all and $18.50 is a lot of money per bulb, but it was certainly cheaper than my construction project alternatives.
+1. **The fact that they didn’t need a hub.** While Philips Hue is the most popular smart bulb system, it requires an extra hub to work, and I wasn’t prepared to buy into an entire ecosystem for an endeavor that was still an experiment.
+2. **Their review rating** — 4.4 stars out of 5 with nearly 7,000 reviews.
+3. **The price.** $74 over all and $18.50 is a lot of money per bulb, but it was certainly cheaper than my construction project alternatives.
 
 Installation was trivial (I mean, it’s a light bulb…) and adding it to HomeKit was quite easy. Within the package was a card with each of the HomeKit codes on it in numbered order. The order on the cards matched the order of the bulbs in the box, so I wrote the bulb’s number on its stem before screwing it in. One thing that surprised me — and this is totally my fault for not reading carefully — is that these are not RGB bulbs. They are a range of color temperature variations on white.
 
@@ -72,8 +72,8 @@ Beyond the door sensor automation, I have these lights participating in a few ot
 
 There was another automation I really wanted that took me a few days to figure out. I wanted the color temperature of these bulbs to change based on time of day. Cooler during the day, and warmer in the evenings. I struggled to find a way to do this in the Home app or even the wonderful [Eve app](https://itunes.apple.com/app/elgato-eve/id917695792). Ultimately it was LIFX’s Siri Shortcuts that solved this for me. Using the Shortcuts app I was able to create two different **Personal** automations. One that runs at sunset and one that runs at sunrise:
 
-	•	**At Sunrise, Daily** set the light to white, 3500 K.
-	•	**At Sunset, Daily** set the light to white, 2700 K.
+* **At Sunrise, Daily** set the light to white, 3500 K.
+* **At Sunset, Daily** set the light to white, 2700 K.
 
 
 |  |  |
