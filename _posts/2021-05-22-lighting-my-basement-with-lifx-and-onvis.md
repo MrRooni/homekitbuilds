@@ -10,7 +10,7 @@ excerpt: "With my garage door properly automated my mind turned to other places 
 
 With our [garage door properly automated](https://homekitbuilds.mrrooni.com/2021/05/14/meross-smart-wi-fi-garage-opener.html) my mind quickly turned to other places in my house that could do with a bit of automation. Lighting is the typical smart home entry point and that’s where I headed next. The previous homeowner had finished the basement and installed pull-chain-operated ceiling lights throughout. If you wanted to turn on the lights you had to walk around to four separate locations to do so.
 
-Those lights last about a year before the pull chains were snapped by overzealous children and I started on a project I would never finish to wire these lights to a proper wall switch. The old bulbs were removed, the chains were never replaced, and we made due with a mostly dark basement whenever we went down there.
+Those lights lasted about a year before the pull chains were snapped by overzealous children and I started on a project I would never finish to wire these lights to a proper wall switch. The old bulbs were removed, the chains were never replaced, and we made due with a mostly dark basement whenever we went down there.
 
 With my newfound HomeKit hobby, however, I realized there was a better way than cutting holes in the wallboard and fishing wire. By setting the fixtures to always on, they were perfect candidates for smart bulbs.
 
