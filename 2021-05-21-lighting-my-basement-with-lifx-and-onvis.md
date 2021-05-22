@@ -8,7 +8,7 @@ excerpt: "With my garage door properly automated my mind turned to other places 
 
 ## Light ‘em Up
 
-With our [garage door properly automated](https://homekitbuilds.mrrooni.com/2021/05/14/meross-smart-wi-fi-garage-opener.html) my mind quickly turned to other places in my house that could do with a bit of automation. Lighting is the typical smart home entry point and that’s where I headed next. The previous homeowner had finished the basement of our house and installed ceiling lights operated by pull chain throughout. If you wanted to turn on the lights in the basement you had to walk around to four separate locations to do so.
+With our [garage door properly automated](https://homekitbuilds.mrrooni.com/2021/05/14/meross-smart-wi-fi-garage-opener.html) my mind quickly turned to other places in my house that could do with a bit of automation. Lighting is the typical smart home entry point and that’s where I headed next. The previous homeowner had finished the basement and installed pull-chain-operated ceiling lights throughout. If you wanted to turn on the lights you had to walk around to four separate locations to do so.
 
 Those lights last about a year before the pull chains were snapped by overzealous children and I started on a project I would never finish to wire these lights to a proper wall switch. The old bulbs were removed, the chains were never replaced, and we made due with a mostly dark basement whenever we went down there.
 
@@ -57,7 +57,7 @@ The ONVIS sensor, which also connects directly to HomeKit but over Bluetooth, is
 
 This automation works 100% of the time, but it doesn’t always fire immediately. I’d say that about 90% of the time the lights come on as soon as the door opens. The other 10% of the time it’s a mixed bag with the lights coming on as I’m heading down the stairs or am in the basement headed to my destination. One time I actually made it all the way to the freezer (which is just about as far from the door as I can go) before the lights finally kicked on.
 
-The other less-than-great aspect of these accessories are their apps. They are clearly write-once, run-anywhere apps designed to check a box. They aren’t great iOS apps by any means. I don’t really use them beyond periodic checks for firmware updates, so they aren’t a deal breaker. There is one thing that tells me someone at LIFX cares about making a great iOS app, though: the LIFX app exposes [Siri Shortcuts](https://support.apple.com/en-us/HT209055). More on that in the **Automations** section below.
+The other less-than-great aspect of these accessories are their apps. They are clearly write-once, run-anywhere apps designed to get something out to both iOS and Android with as little engineering effort as possible. They aren’t great iOS apps by any means. Given that I don’t really use them beyond periodic checks for firmware updates they aren’t a deal breaker. There is one thing that tells me someone at LIFX cares about making a great iOS app, though: the LIFX app exposes [Siri Shortcuts](https://support.apple.com/en-us/HT209055). More on that in the **Automations** section below.
 
 | The LIFX App | The ONVIS App |
 | ------ | ------ |
@@ -81,7 +81,7 @@ There was another automation I really wanted that took me a few days to figure o
 | ![LIFX sunrise automation in the Shortcuts app](/assets/images/lifx-sunrise-automation-1.jpeg) | ![LIFX sunrise automation actions in the Shortcuts app](/assets/images/lifx-sunrise-automation-2.jpeg) |
 
 
-I’m hoping to see a firmware update from LIFX that enables [HomeKit Adaptive Lighting](https://homekitnews.com/2020/11/02/adaptive-lighting-in-homekit-how-it-really-works/) for these bulbs. With that in place I could get rid of both of these Shortcuts. In the meantime these Shortcuts work great and the bulbs properly reflect the time of day every time I go to the basement.
+I’m hoping to see a firmware update from LIFX that enables [HomeKit Adaptive Lighting](https://homekitnews.com/2020/11/02/adaptive-lighting-in-homekit-how-it-really-works/) for these bulbs. With that in place I could get rid of both of these Shortcuts. In the meantime they work great and the bulbs properly reflect the time of day every time I go to the basement.
 
 ## Fading to Black
 
@@ -89,7 +89,7 @@ What’s interesting about this setup is that _technically_ it breaks one of my 
 
 I can’t go around to each bulb and physically operate it very easily. I _could_ find the pull chain stub on each one and toggle it off and on to get the bulbs to light up, but I won’t realistically ever do that. Regardless, these bulbs are incredibly practical and definitely make sense.
 
-In general I don’t think that smart bulbs have nearly the amount of value you can get out of a smart switch. But for this particular application with an always-on power supply they were perfect. If you’re looking for some starter bulbs to introduce smart lighting to your home you would do well to consider these bulbs. Couple them with a door sensor and you too can automate one more thing away.
+In general I don’t think smart bulbs have nearly the amount of value you can get out of a smart switch. Smart switches work in a more traditional manner and open up endless possibilities for fixtures and bulbs since the smarts reside in the switch. For this particular applicationwith an always-on power supply, however, they were perfect. If you’re looking for some starter bulbs to introduce smart lighting to your home then you would do well to consider LIFX bulbs. Couple them with a door sensor and you too can automate one more thing away.
 
 ## Further Reading
 
