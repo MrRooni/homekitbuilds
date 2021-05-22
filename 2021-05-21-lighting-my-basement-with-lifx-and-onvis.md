@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HomeKit Build & Review: Lighting My Basement With LIFX and ONVIS"
+title: "HomeKit Build & Review: Basement Lighting with LIFX and ONVIS"
 excerpt: "With my garage door properly automated my mind turned to other places in my house that could do with a bit of HomeKit love."
 ---
 
