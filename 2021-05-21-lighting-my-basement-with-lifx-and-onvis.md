@@ -1,5 +1,3 @@
-HomeKit Build & Review: Lighting My Basement With LIFX and ONVIS
-
 ---
 layout: post
 title: "HomeKit Build & Review: Lighting My Basement With LIFX and ONVIS"
