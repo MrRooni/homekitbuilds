@@ -18,7 +18,7 @@ Last night I did just that. First I took screenshots of each device’s automati
 
 The Meross accessories ([one garage door opener](/2021/05/14/meross-smart-wi-fi-garage-opener.html) and two switches) didn’t have any trouble with the power outage, nor did they have any trouble being removed and re-added to the new Wi-Fi network. I’ve found these devices to be really rock solid.
 
-The one Wemo outlet I own was a giant pain. Because I have a model with no HomeKit code on the outlet itself it needs to be set up through the terrible Wemo app. As I texted my friend [Andrew](https://twitter.com/4german), “Never buy a Wemo device. […] It’s not worth it. Just buy an [Eve Energy](https://www.evehome.com/en/eve-energy) instead.”
+The one Wemo outlet I own was a giant pain. Because I have a model with no HomeKit code on the outlet itself it needs to be set up through the terrible Wemo app. As I texted my friend [Andrew](https://twitter.com/4german){:target="_blank"}, “Never buy a Wemo device. […] It’s not worth it. Just buy an [Eve Energy](https://www.evehome.com/en/eve-energy){:target="_blank"} instead.”
 
 All in all, I was able to get things up and running again smoothly — but it was work. While power outages aren’t too common in our area, if the LIFX bulbs fail like this every time it’s going to get old very quickly.
 
