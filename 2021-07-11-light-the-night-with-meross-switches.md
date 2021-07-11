@@ -32,7 +32,7 @@ Here's my updated HomeKit map:
 
 Assuming you're comfortable with minor electrical work, installing these new switches is a pretty straightforward operation. The packaging was clean, the quality of the switches themselves seemed high, and the HomeKit setup was fast and straightforward.
 
-The button itself, while fashioned to look like a rocher swtich, is a simple push button with a satisfying click. Truth be told though, I don't think I've manually turned these lights on more than once or twice since installing them as they are fully automated.
+The button itself, while fashioned to look like a rocker switch, is a simple push button with a satisfying click. Truth be told though, I don't think I've manually turned these lights on more than once or twice since installing them as they are fully automated.
 
 I did add them to the Meross app after adding them to my home in HomeKit so I could check for firmware updates. The Meross app takes quite a while before new accessories appear, and it's not the nicest looking app in the world, but it's worth going through it to keep your hardware up to date.
 
@@ -41,7 +41,7 @@ A solid benefit of these switches is that they handle power failures with ease, 
 
 ## The Not So Good
 
-I like almost everything about these switches, but there were just a couple dings against them. For one, there was no HomeKit QR code, just the eight digit code printed on the face of the switch. I would have expected to see a HomeKit QR in the packaging on the instructions, but it wasn't there either. The other thing I've noticed is that every so once in a while these switches will show as unresponsive. It's not enough to be a bother and it doesn't seem to interfere with the automations, but it is something I've seen.
+I like almost everything about these switches, but there were just a couple dings against them. For one, there was no HomeKit QR code, just the eight digit code printed on the face of the switch. I would have expected to see a HomeKit QR code in the packaging or on the instructions, but it wasn't there either. The other thing I've noticed is that every so once in a while these switches will show as unresponsive. It's not enough to be a bother and it doesn't seem to interfere with the automations, but it is something I've seen.
 
 Lastly, as with all Meross products, they offer both HomeKit and non-HomeKit versions of the same model. Make sure you are buying [the right one](https://www.amazon.com/gp/product/B088NQMN5Z).
 
@@ -71,3 +71,4 @@ Beyond that, they follow my rules for new accessories:
 * [meross.com](https://www.meross.com/)
 * [meross Smart Light Switch, Compatible with Apple HomeKit at Amazon](https://www.amazon.com/gp/product/B088NQMN5Z)
 * [Meross E-mail Support](mailto:support@meross.com)
+
