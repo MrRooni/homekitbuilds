@@ -1,10 +1,10 @@
-Light the Night with Meross Switches
-
 ---
 layout: post
 title: "HomeKit Build & Review: Light the Night with Meross Switches"
 excerpt: "After automating my garage door and adding lights to my basement I thought my HomeKit hobby was winding down. How wrong I was."
 ---
+
+![Meross Smart Wi-Fi Single Pole Switch](/assets/images/meross-switch-hero-image.jpg)
 
 ## Night Time is the Right Time
 
@@ -41,9 +41,11 @@ The other thing I noticed about these switches is that they handle power failure
 
 I like almost everything about these switches, but there were just a couple dings against them. For one, there was no HomeKit QR code, just the eight digit code printed on the face of the switch. I would have expected to see a HomeKit QR in the packaging on the instructions, but it wasn't there either. The other thing I've noticed is that every so once in a while these switches will show as unresponsive. It's not enough to be a bother and it doesn't seem to interfere with the automations, but it is something I've seen.
 
+Lastly, as with all Meross products, they offer both HomeKit and non-HomeKit versions of the same model. Make sure you are buying [the right one](https://www.amazon.com/gp/product/B088NQMN5Z).
+
 ## Automations
 
-The automation that I set up with these switches were pretty straightforward:
+The automation that I set up with these switches are pretty straightforward:
 
 * Turn on at sunset.
 * Turn off at 11:00 PM.
