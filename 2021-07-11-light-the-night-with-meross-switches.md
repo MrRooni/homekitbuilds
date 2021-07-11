@@ -20,9 +20,11 @@ This is all well within “first world problem” territory, of course, but with
 
 ## The Accessories
 
-My experience with the Meross (rhymes with Harris) garage door opener made these Meross Smart Wi-Fi Single Pole Switches an appealing option. They are highly rated and well within my budget for HomeKit experimentation. I bought two, one for the front hallway and one for the garage to control the two pairs of outdoor lanterns on the front of our house.
+My experience with the Meross (rhymes with Harris) garage door opener made these [Meross Smart Wi-Fi Single Pole Switches](https://www.meross.com/Detail/23/Smart%20Wi-Fi%20Single%20Pole%20Switch) an appealing option. They are highly rated and well within my budget for HomeKit experimentation. I bought two, one for the front hallway and one for the garage to control the two pairs of outdoor lanterns on the front of our house.
 
 I didn’t need a dimmer switch — on/off is just fine for outside lights — nor did I need to change the color or temperature of the bulbs. Simple, smart switches were exactly right.
+
+Here's my updated HomeKit map:
 
 ![House layout, first floor](/assets/images/home-layout-first-floor.png)
 
@@ -34,7 +36,7 @@ The button itself, while fashioned to look like a rocher swtich, is a simple pus
 
 I did add them to the Meross app after adding them to my home in HomeKit so I could check for firmware updates. The Meross app takes quite a while before new accessories appear, and it's not the nicest looking app in the world, but it's worth going through it to keep your hardware up to date.
 
-The other thing I noticed about these switches is that they handle power failures with ease, reconnecting to the network with no trouble. It's worth noting that these switches fail to the off position, meaning that after a power outage these switches will not turn all your lights on when power is restored.
+A solid benefit of these switches is that they handle power failures with ease, reconnecting to the network with no trouble. It's worth noting that these switches fail to the off position, meaning that after a power outage these switches will not turn all your lights on when power is restored.
 
 
 ## The Not So Good
